@@ -11,7 +11,7 @@ Pour installer le plugin aller dans le menu "Extensions" puis "ajouter" puis "te
 
 ### Utilisation :
 
-Positionner le short code [SIMPLON] dans la ou les pages ou l'on souhaite faire apparaitre les Mentions Simplon.
+Positionner le short code [Simplon] dans la ou les pages ou l'on souhaite faire apparaitre les Mentions Simplon.
 
 ### Ressources :
 #### Déclaration du plugin :
