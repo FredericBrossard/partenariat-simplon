@@ -2,7 +2,7 @@
 /*
 Plugin Name: Mention
 Plugin URI: 
-Description: Un plugin d'introduction pour le d�veloppement sous WordPress
+Description: Un plugin d'introduction pour le développement sous WordPress
 Version: 0.1
 Author: FredBrossard
 Author URI: http://votre-site.com
